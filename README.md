@@ -1,2 +1,3 @@
 # JS-Animated-Template
-Template with animated components on scroll.
+Tailwind CSS Template with animated components on scroll.
+Personalised with nature and gardening icons, images and quotes.
